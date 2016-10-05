@@ -23,8 +23,8 @@
       $(document).ready(function(){
     $("#circle").click(function(){
         $("#circle2").fadeIn();
-        $("#div2").fadeIn("slow");
-        $("#div3").fadeIn(3000);
+        $("#circle3").fadeIn("slow");
+        $("#circle4").fadeIn(3000);
     });
 });
 
@@ -38,15 +38,18 @@
   <body>
 
 
-  <button id="circle" position: absolute; left: 118px; top: 36px style="position: absolute; left: 479px; margin-top: 294px; display:initial;">
-    <div id="text">test</div>
-  </button>
+  <a id="circle" position: absolute; left: 118px; top: 36px style="position: absolute; left: 383px; margin-top: 294px; display:initial; width:40px; height:40px">
+    <div class="text">test</div>
+  </a>
 
-<button id="circle2" style="position: absolute; left: 352; margin-top: 229">    
-	<div id="text">test</div>
-</button><br>
-<div id="div2" style="width:80px;height:80px;display:none;background-color:green;"></div><br>
-<div id="div3" style="width:80px;height:80px;display:none;background-color:blue;"></div>
-
+<a id="circle2" style="position: absolute; left: 164px; margin-top: 222px;width:40px; height:40px">    
+	<div class="text">test2</div>
+</a>
+<a id="circle3" style="position: absolute; left: 307px; margin-top: 182px;width:40px; height:40px">    
+	<div class="text">test3</div>
+</a>
+<a id="circle4" style="position: absolute; left: 519px; margin-top: 203px;width:40px; height:40px">    
+	<div class="text">test4</div>
+</a>
   </body>
 </html>
