@@ -176,7 +176,7 @@ header span.right-tail {
 
 header h1 {
   background-color: #7c334f;
-  font-size: 2.5em;
+  font-size: 3.5em;
   font-weight: 800;
   font-style: normal;
   text-transform: uppercase;
@@ -385,6 +385,8 @@ a:hover {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   font-weight: bold;
+  font-size: 40px;
+  text-align: center;
 }
 
 p {
@@ -429,6 +431,8 @@ img {
   box-shadow: 0px 2px 0px #bdb6ad;
   border: 2px solid #fff6e9;
   max-width: 502px;
+  background:0;
+  outline:none;
 }
 
 hr {

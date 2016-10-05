@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+  <head>
+	  <meta http-equiv="Content-Language" content="en-us">
+	  <link rel="shortcut icon" href="images/icon.png">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" >
+
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+    <link rel="stylesheet" href="stylesheets/test.css"/>
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+      $(document).ready(function(){
+    $("#circle").click(function(){
+        $("#circle2").fadeIn();
+        $("#div2").fadeIn("slow");
+        $("#div3").fadeIn(3000);
+    });
+});
+
+    </script>
+
+</script>
+    <title>Muh github</title>
+
+  	</head>
+
+  <body>
+
+
+  <button id="circle" position: absolute; left: 118px; top: 36px style="position: absolute; left: 479px; margin-top: 294px; display:initial;">
+    <div id="text">test</div>
+  </button>
+
+<button id="circle2" style="position: absolute; left: 352; margin-top: 229">    
+	<div id="text">test</div>
+</button><br>
+<div id="div2" style="width:80px;height:80px;display:none;background-color:green;"></div><br>
+<div id="div3" style="width:80px;height:80px;display:none;background-color:blue;"></div>
+
+  </body>
+</html>
