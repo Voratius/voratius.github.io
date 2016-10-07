@@ -65,12 +65,13 @@ all:unset;
   align:center;
   background-color:#ece4d8;
   background:solid;
+  list-style-type: none;
 }
 
 #footer ul {
   margin: 15px 0 10px 0;
   text-align: center;
-
+	
 }
 
 #footer li {
