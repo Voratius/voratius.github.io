@@ -71,7 +71,7 @@ all:unset;
 #footer ul {
   margin: 15px 0 10px 0;
   text-align: center;
-	
+  list-style-type: none;	
 }
 
 #footer li {
@@ -82,7 +82,8 @@ all:unset;
 #footer li a {
   color: #343434;
   text-decoration: none;
-  margin: 0 5px
+  margin: 0 5px;
+  list-style-type: none;
 }
 
 #footer li a:visited {
