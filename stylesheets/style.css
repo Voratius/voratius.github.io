@@ -4,11 +4,29 @@ body {
   color: #544943;
   -webkit-font-smoothing: antialiased;
   margin:0;
+  width: 100%;
+
 }
 
+.languages{
+    position: relative;
+    float: none;
+    width:  256px;
+    height: 144px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+	margin: 0 auto;
+    padding: 0;
+	display:flex;
+	justify-content:center;
+	
+}
 
-
-
+.languages tr td{
+	text-align:center; 
+    vertical-align:middle;
+}
 
 
 .contact {
