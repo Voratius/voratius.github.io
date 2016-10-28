@@ -1,0 +1,95 @@
+body {
+  background: #ece4d8;
+  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  color: #544943;
+  -webkit-font-smoothing: antialiased;
+  margin:0;
+}
+
+
+
+
+
+
+.contact {
+	position:relative;
+	border-style: solid;
+	border-radius: 1px; 
+	border-width: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-top: 1px;
+	padding-bottom: 1px
+	align:center;
+	text-align:center;
+	width: 20%;
+	margin:auto;
+
+		}
+
+.contact p{
+	align:center;
+	border-width:5%;
+	text-align:center;
+
+}
+
+
+#menubar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	display:flex;
+	justify-content:center;
+}
+
+#menubar li {
+    float: left;
+}
+
+#menubar li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#menubar li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+#menubar li.dropdown {
+    display: inline-block;
+}
+
+#menubar .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#menubar .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+#menubar .dropdown-content a:hover {background-color: #f1f1f1}
+
+#menubar .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#menubar .active {
+    background-color: #4CAF50;
+}
+
+
+.ignore-css{all:unset;}
