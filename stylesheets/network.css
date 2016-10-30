@@ -5,7 +5,7 @@ html {
 
 
 
-#circle {
+#main {
   position: absolute;
   background-color: #09f;
   margin: 20px auto;
@@ -28,7 +28,7 @@ html {
       
 }
 
-a {
+img {
   position: absolute;
   background-color: #09f;
   margin: 20px auto;
