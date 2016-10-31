@@ -4,6 +4,7 @@
       $(document).ready(function(){
     $(".main").click(function(){
         $(".derivatives").fadeIn();
+		$(".line").fadeIn();
     });
 });
 function OpenComputer() {
@@ -33,5 +34,6 @@ function distributeFields() {
         angle += step;
     });
 }
+
 
 

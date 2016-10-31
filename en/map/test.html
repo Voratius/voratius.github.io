@@ -1,108 +1,71 @@
-<!DOCTYPE html>
 <html>
-  <head>
-	  <meta http-equiv="Content-Language" content="en-us">
-	  <!--<link rel="shortcut icon" href="images/icon.png"> REMOVE COMMENT IF FOUND ICON --> 
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=640" />
+ <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+ <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+ <script type="text/javascript" src="../../javascripts/jsPlumb-2.2.3.js"></script>
+ <script data-require="jsplumb@*" data-semver="1.7.2" src="https://cdnjs.cloudflare.com/ajax/libs/jsPlumb/1.4.1/jquery.jsPlumb-1.4.1-all-min.js"</script>
+<script type="text/javascript">
 
-    <link rel="stylesheet" href="../../stylesheets/style.css" media="screen"/>
-    <link rel="stylesheet" href="../../stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
-    <link rel="stylesheet" href="../../stylesheets/pygment_trac.css"/>
+$(document).ready(function(){
 
-    <script type="text/javascript" src="../../javascripts/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="../../javascripts/headsmart.min.js"></script>
-	<script type="text/javascript" src="../../javascripts/functions.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
-	<script>
-	function OpenDefinition() {
-    window.open("../definition/computer.html");
+            $(".inner").draggable({
+
+                containment : ([ ".outer" ]),
+
+            });
+
+        var source = $("#div1");
+        var target = $("#div2");
+        var target2 = $("#div3");
+		
+            jsPlumb.connect({
+                source : source,
+                target : target]
+
+            });
+            jsPlumb.connect({
+                source : source,
+                target : target2
+            });
+
+
+        });
+jsPlumb.connect({source:".div1", target:".div2"});
+
+</script>
+<style type="text/css">
+#outer{
+
+    height: 300px;
+    width: 300px;
+    /*background-color: red;*/
+
 }
-	</script>
-    <title>Semantic Network</title>
-  </head>
+.inner{
+
+    height: 30px;
+    width: 30px;
+    background-color: yellow;
+     margin-bottom: 37px;
+}
+#div2{
+    position: relative; left: 114px; top: -7px;
+}
+
+</style>
+<body>
+    <div id="outer">
+
+        <div class="inner" id="div1">
+        </div>
+        <div class="inner" id="div2">
+        </div>
+        <div class="inner" id="div3">
+        </div>
 
 
- <body>
-   <div id="menubar">
-		<ul>
-			<li><a href="../index.html">Index</a></li>
-			<li class="dropdown">
-				<a href="#" class="dropbtn">Network menu</a>
-					<div class="dropdown-content">
-					<a href="">Genesis</a>
-					<a href="computer.html">Map</a>
-					<a href="#">placeholder</a>
-			</div>
-			</li>
-			<li><a href="../contact.html">Contact</a></li>
-			<li><a href="../about.html">About</a></li>
-		</ul>
-   </div>
-   
-	<a class="info"  onclick="Info()"  style="position: absolute; left: 90%; margin-top: 1%; display:initial; width:50px; height:40px">
-			<div class="text">Help</div>
-	</a>
-	<div id="network" style="position:relative;">
-		<div class="center">
-			<a class="main" ondblclick="OpenDefinition()"   style="position: absolute; left: 600px; margin-top: 250px; display:initial; width:80px; height:80px">
-				<div class="text">Computer</div>
-			</a>
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/innovation.html" style="position: absolute; left: 400px; margin-top: 100px;width:80px; height:80px">    
-				<div class="text">Innovation</div>
-			</a>
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/calculator.html" style="position: absolute;left: 600px; margin-top: 100px;width:80px; height:80px">    
-				<div class="text">Calculator</div>
-			</a>
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/numbers.html" style="position: absolute;left: 800px; margin-top: 100px;width:80px; height:80px">    
-				<div class="text">Numbers</div>
-			</a>
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/binary.html" style="position: absolute;left:800px;margin-top:400px;width:80px; height:80px">    
-				<div class="text">Binary</div>
-			</a>
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/programs.html" style="position: absolute;left:400px; margin-top:250px;width:80px; height:80px">    
-				<div class="text">Programs</div>
-			</a>	
-		</div>
-		<div class="derivatives">			
-			<a class="derivatives" href="../definition/internet.html" style="position: absolute;left: 400px; margin-top: 400px;width:80px; height:80px">    
-				<div class="text">Internet</div>
-			</a>	
-		</div>
-		<div class="derivatives">
-			<a class="derivatives" href="../definition/technology.html" style="position: absolute; left: 800px; margin-top: 250px;width:80px; height:80px">    
-				<div class="text">Technology</div>
-			</a>
-		</div>
-	</div>
-	<div  class="circle2" style="display:none;">
-		<![if vml]>
-						<span  style='mso-ignore:vglayout;position:absolute;z-index:1;left:253px;top:268px;width:120px;height:38px'>
-				<img  width=120 height=38 src="network_files/image001.gif" class="circle2" v:shapes="_x0000_s1025">
-			</span>
-		<![endif]>
-	</div>
 
-	
-	
-	
-</ul>
-   
- </body>
+    </div>
+
+
+</body>
 </html>
