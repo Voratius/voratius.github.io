@@ -1,0 +1,14 @@
+LEFT IS 400,600,800
+TOP IS 100,250,400
+
+LINES
+center to upper left IS top 175, left 550 -line1 120deg
+center to upper mid IS TOP 175; LEFT 650 -line2 0 deg
+center to upper right is 175, left 750px-line3 60 deg
+
+Center to left is top 250 left 550 90deg line 4
+Center to right is top 250 left 750 90deg line 5
+
+center to lower left top 325, left 550 240deg line 6
+center to lower mid top 325, left 650 0 deg line 7
+center to lower right top 325, left 750 300deg line 8

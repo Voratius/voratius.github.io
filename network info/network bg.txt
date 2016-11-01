@@ -1,0 +1,21 @@
+﻿1-Computer - Компютър
+2-Innovation - Иновация
+3-Calculator - Калкулатор
+4-numbers - Цифри
+5-Binary - Двоичен код
+6-Programs - Програми
+7-Network - Мрежа
+8-Organization - Организация
+9-Internet - Интернет
+10-Connection - Връзка
+11-Specialization - Специализация
+12-Automation - Автоматизация
+13-Efficiency - Ефикасност
+15-Matrix - Матрица
+16-Comunication - Комуникация
+17-Machine - Машина
+18-Inspiration - Вдъхновение
+19-Math - Математика               
+20-Understanding - Разбиране
+21-Technology - Технология
+22-Production - Производство 

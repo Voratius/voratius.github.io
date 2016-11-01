@@ -1,0 +1,21 @@
+﻿Cumputer -Ηλεκτρονικός υπολογιστής
+Innovation -Καινοτομία
+Calculator -Αριθμομηχανή
+Numbers - Aριθμοί
+Binary -Δυάδικος
+Program -Πρόγραμμα υπολογιστή
+Network -Δίκτυο
+Orgnization -Oργάνωση
+Internet -Διαδίκτυο
+Connection -Σύνδεση
+Specialization -Ειδίκευση 
+Automation -Αυτοματοποίηση
+Efficiency -Αποδοτικότητα
+Matrix -Μήτρα
+Communication -Πληροφορία
+Machine -Μηχανή
+Inspiration -Έμπνευση
+Math -Μαθηματικά
+Understanding -Aντίληψη
+Technology -Τεχνολογία
+Production -Παραγωγή

@@ -1,0 +1,30 @@
+7 LINK CODE
+		<div class="line" id="line1"></div>
+		<div class="line" id="line2"></div>
+		<div class="line" id="line3"></div>
+		<div class="line" id="line4"></div>
+		<div class="line" id="line5"></div>
+		<div class="line" id="line6"></div>
+		<div class="line" id="line8"></div>
+6 LINK CODE
+		<div class="line" id="line1"></div>
+		<div class="line" id="line3"></div>
+		<div class="line" id="line4"></div>
+		<div class="line" id="line5"></div>
+		<div class="line" id="line6"></div>
+		<div class="line" id="line8"></div>
+5 LINK CODE
+		<div class="line" id="line1"></div>
+		<div class="line" id="line2"></div>
+		<div class="line" id="line3"></div>
+		<div class="line" id="line6"></div>
+		<div class="line" id="line8"></div>
+4 LINK
+		<div class="line" id="line1"></div>
+		<div class="line" id="line2"></div>
+		<div class="line" id="line3"></div>
+		<div class="line" id="line7"></div>
+3 LINK
+		<div class="line" id="line1"></div>
+		<div class="line" id="line2"></div>
+		<div class="line" id="line3"></div>
