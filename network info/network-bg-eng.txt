@@ -1,0 +1,147 @@
+﻿1-Computer - Компютър 
+<div cols="0" rows="0" id="definition" style="">A computer is a device that can be instructed to carry out
+an arbitrary set of arithmetic or logical operations automatically.</div>
+
+<div cols="0" rows="0" id="definition" style="">Компютърът е устройство с общо предназначение,
+което може да бъде програмирано да извършва набор 
+от аритметични и/или логически операции. </div>
+--------------------------------------------------
+2-Innovation - Иновация
+<div cols="0" rows="0" id="definition" style="">Innovation is defined simply as a "new idea, device, or method".</div>
+
+<div cols="0" rows="0" id="definition" style="">Иновация е употребата на нови идеи, процеси, стоки, услуги и практики
+по повече или по-малко комерсиален начин, базирайки се на (ново) приложение 
+на науката и/или теxниката.</div>
+--------------------------------------------------
+3-Calculator - Калкулатор
+<div cols="0" rows="0" id="definition" style="">An electronic calculator is a small, portable electronic device used 
+to perform both basic arithmetic operations and complex mathematical operations.</div>
+
+<div cols="0" rows="0" id="definition" style="">Класическият калкулатор представлява преносима сметачна машина, с помощта
+на която могат да се извършват математически изчисления.</div>
+--------------------------------------------------
+4-numbers - Числа
+<div cols="0" rows="0" id="definition" style="">A number is a mathematical object used to count, measure, and label.</div>
+
+<div cols="0" rows="0" id="definition" style="">Числото представлява абстрактно математическо 
+понятие за означаване на количество, броене и измерване.</div>
+--------------------------------------------------
+5-Binary - Двоичен код
+<div cols="0" rows="0" id="definition" style="">А representation for numbers using only two digits (0 and 1)</div>
+
+<div cols="0" rows="0" id="definition" style="">Двоичната бройна система е позиционна бройна система, при която 
+числата се изобразяват само с помощта на две цифри: 0 и 1.</div>
+--------------------------------------------------
+6-Programs - Програми
+<div cols="0" rows="0" id="definition" style="">A computer program is a collection of instructions 
+that performs a specific task when executed by a computer.</div>
+
+<div cols="0" rows="0" id="definition" style="">Съвкупност от инструкции към компютъра, 
+които трябва да дадат някакъв определен изходен резултат.</div>
+--------------------------------------------------
+7-Network - Мрежа
+<div cols="0" rows="0" id="definition" style="">A computer network or data network is a telecommunications 
+network which allows computers to exchange data.</div>
+
+<div cols="0" rows="0" id="definition" style="">Компютърната мрежа е съвкупност от хардуерни компоненти и компютри, 
+свързани помежду си чрез преносна среда,която позволява обмен на информация помежду им.</div>
+--------------------------------------------------
+8-Organization - Организация
+<div cols="0" rows="0" id="definition" style="">An organization is an entity comprising multiple people, such as an institution 
+or an association, that has a collective goal and is linked to an external environment</div>
+
+<div cols="0" rows="0" id="definition" style="">Организацията, най-общо, е формална група от хора, които се стремят към общи цели.</div>
+--------------------------------------------------
+9-Internet - Интернет
+<div cols="0" rows="0" id="definition" style="">The Internet is the global system of interconnected computer networks that use 
+the Internet protocol suite (TCP/IP) to link devices worldwide.</div>
+
+<div cols="0" rows="0" id="definition" style="">Интернет е глобална система от свързани компютърни мрежи, която чрез стандартен 
+комплект протоколи TCP/IP обслужва милиарди потребители по целия свят.</div>
+--------------------------------------------------
+10-Connection - Връзка
+<div cols="0" rows="0" id="definition" style="">The complete path between two terminals.</div>
+
+<div cols="0" rows="0" id="definition" style="">Пълния път между два терминала.</div>
+--------------------------------------------------
+11-Specialization - Специализация
+<div cols="0" rows="0" id="definition" style="">Specialization is to gain knowledge and experience in disciplines or professional field.</div>
+
+<div cols="0" rows="0" id="definition" style="">Специализация е да се придобият знания и опит в дисциплини или професионална област.</div>
+--------------------------------------------------
+12-Automation - Автоматизация
+<div cols="0" rows="0" id="definition" style="">Automation or automatic control, is the use of various control systems for 
+operating equipment such as machinery, processes in factories, boilers and heat treating ovens, 
+switching on telephone networks, steering and stabilization of ships, 
+aircraft and other applications with minimal or reduced human intervention. </div>
+
+<div cols="0" rows="0" id="definition" style="">Автоматизация (наричана още автоматика) се нарича използването на автоматични 
+технически средства, заедно с икономико-математически методи и системи за управление, 
+освобождаващи човека от участие в процесите на получаване, преобразуване, предаване и използване на енергия, 
+материали или информация, съществено намаляващи степента на това участие или трудоемкостта на изпълняемите операции.</div>
+--------------------------------------------------
+13-Efficiency - Ефикасност
+<div cols="0" rows="0" id="definition" style="">Efficiency is the ability to avoid wasting materials, energy, efforts, money, and time 
+in doing something or in producing a desired result.</div>
+
+<div cols="0" rows="0" id="definition" style="">Ефикасността показва отношението на постигнатия резултат спрямо вложените разходи (енергия, труд, финансови средства).</div>
+--------------------------------------------------
+15-Matrix - Матрица
+<div cols="0" rows="0" id="definition" style="">A rectangular array of numbers, symbols or expressions.</div>
+
+
+<div cols="0" rows="0" id="definition" style="">Правоъгълен масив от числа, символи или изрази.</div>
+--------------------------------------------------
+16-Comunication - Комуникация
+<div cols="0" rows="0" id="definition" style="">Communication is the act of conveying intended meanings  from one entity 
+or group to another through the use of mutually understood signs and semiotic rules.</div>
+
+<div cols="0" rows="0" id="definition" style="">Общуването е процес, чрез който хората, 
+както и останалите живи организми и информационни системи, обменят информация.</div>
+--------------------------------------------------
+17-Machine - Машина
+<div cols="0" rows="0" id="definition" style="">A machine is a tool containing one or more parts that uses energy to perform an intended action.</div>
+
+<div cols="0" rows="0" id="definition" style="">Машина е сложен механизъм или съчетание от механизми, който изпълнява механични движения 
+за преобразуване на енергия и материали, за извършване на работа, за събиране, предаване, 
+съхранение, обработка и използване на информация.</div>
+--------------------------------------------------
+18-Inspiration - Вдъхновение
+<div cols="0" rows="0" id="definition" style="">Something that makes someone want to do something or that gives someone an idea about 
+what to do or create : a force or influence that inspires someone.</div>
+
+<div cols="0" rows="0" id="definition" style="">Изпълване, зареждане, раздухване на чувствата, разума и волята по непостижим начин </div>
+--------------------------------------------------
+19-Math - Математика               
+<div cols="0" rows="0" id="definition" style="">Mathematics is the study of topics such as quantity (numbers),structure, space, and change.</div>
+
+<div cols="0" rows="0" id="definition" style="">Математика е изучаването на области като количествата (т.е.числата), пространствените 
+структури , типовете пространство и извършването на изчисления.</div>
+--------------------------------------------------
+20-Understanding - Разбиране
+<div cols="0" rows="0" id="definition" style="">Understanding is a psychological process related to an abstract or physical object, 
+such as a person, situation, or message whereby one is able to think about it and use 
+concepts to deal adequately with that object.</div>
+
+
+<div cols="0" rows="0" id="definition" style="">Разбирателство е психологически процес, свързан с абстрактна или физически обект,
+като човек, ситуация, или съобщение, с които един е в състояние да мисли за това и употреба
+концепции, за да се справят адекватно с този обект.</div>
+--------------------------------------------------
+21-Technology - Технология
+<div cols="0" rows="0" id="definition" style="">Technology is the collection of techniques, skills, methods and processes used in the production 
+of goods or services or in the accomplishment of objectives, such as scientific investigation.</div>
+
+<div cols="0" rows="0" id="definition" style="">Технолoгия –съвкупност от способи и средства за постигане на желан резултат; 
+начин за преобразуване на даденото в необходимо.</div>
+--------------------------------------------------
+22-Production - Производство 
+<div cols="0" rows="0" id="definition" style="">Production is a process of combining various material inputs and immaterial inputs (plans, know-how) 
+in order to make something for consumption (the output).</div>
+
+<div cols="0" rows="0" id="definition" style="">Продукцията, в икономически смисъл, е процесът на създаване на стопански и нестопански блага или предмети, 
+служещи за удовлетворение на човешките потребности.</div>
+
+
+CODE
+		<div cols="0" rows="0" id="definition" style="">CONTENT</div>
