@@ -1,23 +1,44 @@
-﻿Computer - ein elektronisches Gerät, das Datenverarbeitet
-Neuerung - eine Änderung von etwas Altem, so dass etwas Neues an seine Stelletritt 
-Rechner -  jemand, der in der genannten Weise rechnet
-die Zahlen - ein Grundelement der Mathematik, mit dem verschiedene Rechenoperationen ausgeführt werden können
-zweistellig - mit zwei Zahlen
-Programmm-  eine Reihe von Befehlen für einen Computer
-das Netzwerk-  System von mehreren Computern, die miteinander verbunden sind
-die Organisation   etwas, das nach einem bestimmten Plan aufgebaut ist und abläuft
-die Konnexion - 1. Kontakt haben 2.der Zustand, dass zwei Personen per Telefon kommunizieren können
-die Spezialisierung- sich auf ein Fachgebiet konzentrieren
-Automation  - automatisieren die automatische Steuerung von Vorgängen in der Produktion
-die Effizienz - wirkungsvoll
-die Matrize - Folie zur Herstellung von Vervielfältigungen
-die Kommunikation - 1. der Austausch von Informationen zwischen Geräten 2.  die Verständigung zwischen Menschen mithilfe von Sprache oder Zeichen
-die Maschine - eine mechanische Vorrichtung, die Kraft oder Energie überträgt und so bestimmte Arbeiten für den Menschen erleichtert
-die Inspiration-  ein kreativer Einfall; eine Idee
-Mathe - das Schulfach Mathematic
-die Vereinbarung - das, was vereinbart wurde;  das Vereinbaren; gemeinsam beschließen
-die Technologie- 1. Verfahren; Methode 2. die Wissenschaft von der Umwandlung von Rohstoffen in Fertigprodukte 3. Ausstattung mit Maschinen und Fertigungsanlagen  
-die Produktion - 2. die Gesamtheit dessen, was hergestellt wurde 
+﻿Computer - 
+<div cols="0" rows="0" id="definition" style="">ein elektronisches Gerät, das Datenverarbeitet</div>
+Neuerung - 
+<div cols="0" rows="0" id="definition" style="">eine Änderung von etwas Altem, so dass etwas Neues an seine Stelletritt </div>
+Rechner -  
+<div cols="0" rows="0" id="definition" style="">jemand, der in der genannten Weise rechnet</div>
+die Zahlen - 
+<div cols="0" rows="0" id="definition" style="">ein Grundelement der Mathematik, mit dem verschiedene Rechenoperationen ausgeführt werden können</div>
+zweistellig - 
+<div cols="0" rows="0" id="definition" style="">mit zwei Zahlen</div>
+Programmm-  
+<div cols="0" rows="0" id="definition" style="">eine Reihe von Befehlen für einen Computer</div>
+das Netzwerk-  
+<div cols="0" rows="0" id="definition" style="">System von mehreren Computern, die miteinander verbunden sind</div>
+die Organisation   
+<div cols="0" rows="0" id="definition" style="">etwas, das nach einem bestimmten Plan aufgebaut ist und abläuft</div>
+die Konnexion - 
+<div cols="0" rows="0" id="definition" style="">1. Kontakt haben 2.der Zustand, dass zwei Personen per Telefon kommunizieren können</div>
+die Spezialisierung- 
+<div cols="0" rows="0" id="definition" style="">sich auf ein Fachgebiet konzentrieren</div>
+Automation  - 
+<div cols="0" rows="0" id="definition" style="">automatisieren die automatische Steuerung von Vorgängen in der Produktion</div>
+die Effizienz - 
+<div cols="0" rows="0" id="definition" style="">Effizienz stellt das Verhältnis Input zu Output sowie Leistung zu Kosten dar. Die Effizienz entspricht somit in zahlreichen Fällen der Wirtschaftlichkeit.
+</div>
+die Matrize - 
+<div cols="0" rows="0" id="definition" style="">In der Mathematik versteht man unter einer Matrix (Plural Matrizen) eine rechteckige Anordnung (Tabelle) von Elementen meist mathematischer Objekte, etwa Zahlen.</div>
+die Kommunikation - 
+<div cols="0" rows="0" id="definition" style="">1. der Austausch von Informationen zwischen Geräten 2.  die Verständigung zwischen Menschen mithilfe von Sprache oder Zeichen</div>
+die Maschine - 
+<div cols="0" rows="0" id="definition" style="">eine mechanische Vorrichtung, die Kraft oder Energie überträgt und so bestimmte Arbeiten für den Menschen erleichtert</div>
+die Inspiration-  
+<div cols="0" rows="0" id="definition" style="">ein kreativer Einfall; eine Idee</div>
+Mathe - 
+<div cols="0" rows="0" id="definition" style="">ist eine Wissenschaft, welche aus der Untersuchung von geometrischen Figuren und dem Rechnen mit Zahlen entstand</div>
+die Vereinbarung - 
+<div cols="0" rows="0" id="definition" style="">das, was vereinbart wurde;  das Vereinbaren; gemeinsam beschließen</div>
+die Technologie- 
+<div cols="0" rows="0" id="definition" style="">1. Verfahren; Methode 2. die Wissenschaft von der Umwandlung von Rohstoffen in Fertigprodukte 3. Ausstattung mit Maschinen und Fertigungsanlagen </div> 
+die Produktion - 
+<div cols="0" rows="0" id="definition" style=""> die Gesamtheit dessen, was hergestellt wurde </div>
 
 
 

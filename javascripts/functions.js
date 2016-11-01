@@ -25,5 +25,5 @@ function OpenComputer() {
 
 
 function Info() {
-   window.alert("Click once to reveal all related words. Double click to open new page");
+   window.alert("Click once to reveal all related words. Double click center word to reveal definition");
 }
